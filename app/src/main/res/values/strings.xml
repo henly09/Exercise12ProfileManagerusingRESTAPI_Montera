@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">[Exercise 12] Profile Manager using REST API_Montera</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
